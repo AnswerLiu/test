@@ -1,4 +1,4 @@
-Git is a version control system
+﻿Git is a version control system
 Git is free software.
 
 这是测试
@@ -8,3 +8,5 @@ Git is free software.
 是是是是
 
 首届世界经济拮据
+
+老婆老婆老婆老婆老婆
